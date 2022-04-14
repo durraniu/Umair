@@ -1,0 +1,11 @@
+Package: umair
+Title: Utility functions for use by Umair Durrani
+Version: 0.0.0.9000
+Authors@R: 
+    person("Umair", "Durrani", , "durraniu@uwindsor.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7235-1155"))
+Description: A personal package that contains several useful functions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
