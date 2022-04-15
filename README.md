@@ -14,7 +14,8 @@ Umair Durrani
 You can install the development version of umair like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("remotes")
+remotes::install_github("umair")
 ```
 
 ## Example
@@ -25,7 +26,7 @@ This is a basic example which shows you how to solve a common problem:
 library(umair)
 
 what_time("en")
-#> [1] "Mmhm! It is 12:32 now!"
+#> [1] "Aw! It is 12:45 now!"
 what_time()
-#> [1] "Wowie! Il est maintenant 12:32!"
+#> [1] "Yee-haw! Il est maintenant 12:45!"
 ```
