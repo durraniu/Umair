@@ -6,8 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of umair is to provide useful functions to the author i.e.,
-Umair Durrani
+The goal of the package `umair` is to provide useful functions to the
+author i.e., Umair Durrani
 
 ## Installation
 
@@ -26,7 +26,7 @@ This is a basic example which shows you how to solve a common problem:
 library(umair)
 
 what_time("en")
-#> [1] "Aw! It is 12:45 now!"
+#> [1] "Mm! It is 12:49 now!"
 what_time()
-#> [1] "Yee-haw! Il est maintenant 12:45!"
+#> [1] "Hurray! Il est maintenant 12:49!"
 ```
