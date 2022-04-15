@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # umair
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/durraniu/umair/workflows/R-CMD-check/badge.svg)](https://github.com/durraniu/umair/actions)
 <!-- badges: end -->
 
 The goal of the package `umair` is to provide useful functions to the author i.e., Umair Durrani
